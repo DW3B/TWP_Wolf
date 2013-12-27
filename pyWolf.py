@@ -91,9 +91,12 @@ def initialize():
 		
 		checkHelp(MESSAGE)
 		
-#def nightRound():
-
-#def dayRound():
+def nightRound():
+	#TODO: Do stuffs during the day...
+	print 'nightRound' # Can delete this
+def dayRound():
+	#TODO: Do stuffs during the night...
+	print 'dayRound' # Can delete this
 
 def newGame(playercount):
 	# TODO: START A NEW GAME
